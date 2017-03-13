@@ -5,3 +5,6 @@ $ git add .
 $ git commit -m "Comments for the commit"
 $ git push origin master
 
+$git pull 
+To sync the local repo with the remote one.
+
